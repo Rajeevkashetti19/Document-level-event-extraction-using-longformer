@@ -1,7 +1,5 @@
 # Argument Extraction by Generation
 
-Code for paper "Document-Level Argument Extraction by Conditional Generation". NAACL 21'
-
 
 ## Dependencies 
 - pytorch=1.6 
